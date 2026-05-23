@@ -20,3 +20,9 @@
 Установка зависимостей:
 ```bash
 pip install numpy matplotlib scipy pandas
+```
+Запуск:
+```bash
+first_functions.py
+coefficients.py
+data_analysis.py
